@@ -1,0 +1,15 @@
+.titulo-educacion{
+    color: black;
+    font-weight: bold;
+    font-size: small
+}
+.featured-model-info{
+    height: 80px;
+}
+.clients-say .titulo_experiencia {
+    color: black; /* Color inicial del texto */
+}
+
+.single-testimonial-box{
+    height: 850px;
+}
