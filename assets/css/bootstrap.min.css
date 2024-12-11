@@ -5292,12 +5292,15 @@ textarea.input-group-sm>.input-group-btn>.btn {
     height: 50px;
     padding: 15px 15px;
     font-size: 18px;
-    line-height: 20px
+    line-height: 20px;
+    background-color: none;
+    
 }
 
 .navbar-brand:focus,
 .navbar-brand:hover {
-    text-decoration: none
+    text-decoration: none;
+    background-color: none;
 }
 
 .navbar-brand>img {

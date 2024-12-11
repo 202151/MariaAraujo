@@ -13,3 +13,30 @@
 .single-testimonial-box{
     height: 850px;
 }
+
+.featured-cars-img{
+    height: 420px;
+}
+
+.footer-logo_{
+    background-color: transparent;
+
+    color: white;
+}
+
+.nombre-header{
+    background-color: none;
+    font-size: 22px;
+    margin: 30px;
+    font-weight: bold;
+    align-items: center;
+    color: white;
+
+}
+-nombre-header:hover{
+    background-color: white;
+}
+
+.etiqueta:hover{
+background-color: none;
+}
